@@ -39,3 +39,9 @@
 ![Copy of Yellow White Illustration Google Classroom Header](https://github.com/user-attachments/assets/1112f980-237a-4e83-8424-387b0e5e3670)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinaySingh/dinaySingh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinaySingh/dinaySingh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
