@@ -1,7 +1,8 @@
 ![Yellow White Illustration Google Classroom Header](https://github.com/user-attachments/assets/2aee9288-2d5e-4394-aa29-c93e7c2c328c)
 
 # 💫 A passionate Front-End Developer on an exciting learning journey:
-🌟 Self-Taught and Driven<br>Coming from a non-tech background, I embraced the challenge of learning web development on my own. Through dedication and curiosity, I’ve built some cool 3D websites & Cool Projects gaining hands-on experience and sharpening my skills.<br><br>💻 Focus on Real-World Development<br>Currently, I’m diving deeper into real-life projects, applying my knowledge to create meaningful and impactful solutions.<br><br>🚀 Growth-Oriented<br>Every day is an opportunity to learn and grow. I love experimenting with new technologies and building interactive, user-friendly interfaces.<br><br>Let’s connect and build something amazing together!
+<p>🌟 Self-Taught and Driven<br>Coming from a non-tech background, I embraced the challenge of learning web development on my own. Through dedication and curiosity, I’ve built some cool 3D websites & Cool Projects gaining hands-on experience and sharpening my skills.<br><br>💻 Focus on Real-World Development<br>Currently, I’m diving deeper into real-life projects, applying my knowledge to create meaningful and impactful solutions.<br><br>🚀 Growth-Oriented<br>Every day is an opportunity to learn and grow. I love experimenting with new technologies and building interactive, user-friendly interfaces.</p>
+
 
 # ⚡️ Where to find me:
 <p><a target="_blank" href="https://x.com/SinghDinay?t=Rd9KZQIbqxo8q8DwtLkImw&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
@@ -16,6 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaySingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dinaySingh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Copy of Yellow White Illustration Google Classroom Header](https://github.com/user-attachments/assets/1112f980-237a-4e83-8424-387b0e5e3670)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
