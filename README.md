@@ -3,10 +3,9 @@
 # 💫 A passionate Front-End Developer on an exciting learning journey:
 🌟 Self-Taught and Driven<br>Coming from a non-tech background, I embraced the challenge of learning web development on my own. Through dedication and curiosity, I’ve built some cool 3D websites & Cool Projects gaining hands-on experience and sharpening my skills.<br><br>💻 Focus on Real-World Development<br>Currently, I’m diving deeper into real-life projects, applying my knowledge to create meaningful and impactful solutions.<br><br>🚀 Growth-Oriented<br>Every day is an opportunity to learn and grow. I love experimenting with new technologies and building interactive, user-friendly interfaces.<br><br>Let’s connect and build something amazing together!
 
-
 # ⚡️ Where to find me:
 <p><a target="_blank" href="https://x.com/SinghDinay?t=Rd9KZQIbqxo8q8DwtLkImw&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/dinay-singh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="linkedin" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/dinay-singh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/dinay.nakoti?igsh=cDFjeG5jZ2U4MWhm" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 # 💻 Tech Stack:
