@@ -1,15 +1,7 @@
-###
+![Yellow White Illustration Google Classroom Header](https://github.com/user-attachments/assets/2aee9288-2d5e-4394-aa29-c93e7c2c328c)
 
-<div align="center">
-  <img src="https://www.canva.com/design/DAGbT1JQ9Cw/wAj4mcHE0uxYIqjnpvORIQ/view?utm_content=DAGbT1JQ9Cw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h284b8563ed" height="25" alt="logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-# 💫 Hi 👋, I’m Dinay:
-A passionate Front-End Developer on an exciting learning journey!<br><br>🌟 Self-Taught and Driven<br>Coming from a non-tech background, I embraced the challenge of learning web development on my own. Through dedication and curiosity, I’ve built some cool 3D websites & Cool Projects gaining hands-on experience and sharpening my skills.<br><br>💻 Focus on Real-World Development<br>Currently, I’m diving deeper into real-life projects, applying my knowledge to create meaningful and impactful solutions.<br><br>🚀 Growth-Oriented<br>Every day is an opportunity to learn and grow. I love experimenting with new technologies and building interactive, user-friendly interfaces.<br><br>Let’s connect and build something amazing together!
+# 💫 A passionate Front-End Developer on an exciting learning journey:
+🌟 Self-Taught and Driven<br>Coming from a non-tech background, I embraced the challenge of learning web development on my own. Through dedication and curiosity, I’ve built some cool 3D websites & Cool Projects gaining hands-on experience and sharpening my skills.<br><br>💻 Focus on Real-World Development<br>Currently, I’m diving deeper into real-life projects, applying my knowledge to create meaningful and impactful solutions.<br><br>🚀 Growth-Oriented<br>Every day is an opportunity to learn and grow. I love experimenting with new technologies and building interactive, user-friendly interfaces.<br><br>Let’s connect and build something amazing together!
 
 
 # ⚡️ Where to find me:
